@@ -60,8 +60,3 @@ better_coinflips:
   random_teleport_message: '你被随机传送了。'
   random_teleport_warhead_detonated_message: '弹头被引爆了，所以你只得到了一颗糖果。'
   handcuff_message: '你因犯下战争罪而被捕......什么的。'
-map_editor_reborn:
-  mode_creating: '<color=yellow>Mode:</color> <color=green>创建</color>'
-  mode_deleting: '<color=yellow>Mode:</color> <color=red>删除</color>'
-  mode_selecting: '<color=yellow>Mode:</color> <color=yellow>选择</color>'
-  mode_copying: '<color=yellow>Mode:</color> <color=#34B4EB>复制到 ToolGun</color>'
